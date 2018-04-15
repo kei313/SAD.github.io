@@ -151,3 +151,19 @@ html{
 	background-image: url(Picture/trans.png);
 	background-size: contain;
 }
+#paymentData{
+	position: absolute;
+	border: 2px solid rgba(0,0,0,1);
+	height: 500px;
+	width: 850px;
+	background-image: url(Picture/payment.png);
+	background-size: contain;
+}
+#balances{
+	position: absolute;
+	border: 2px solid rgba(0,0,0,1);
+	height: 500px;
+	width: 850px;
+	background-image: url(Picture/balance.png);
+	background-size: contain;
+}
